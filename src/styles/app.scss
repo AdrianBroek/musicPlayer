@@ -1,0 +1,19 @@
+@import "./player";
+@import "./songs";
+@import "./library";
+@import "./nav";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+h3,
+h4 {
+  font-weight: 400;
+  color: rgb(100, 100, 100);
+}
+
+
